@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+
+#app {
+    width: 400px;
+}
+
+input {
+    width: 100%;
+}
+
+.suggestions-wrapper {
+    display: none;
+    max-height: 300px;
+    overflow-y: scroll;
+}
+
+.suggestions-visible {
+    display: block;
+}
+
