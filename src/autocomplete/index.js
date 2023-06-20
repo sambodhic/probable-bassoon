@@ -1,4 +1,4 @@
-import { getSuggestions, debounce } from "./utils.mjs";
+import { getSuggestions, debounce } from "./utils.js";
 
 const inputBox = document.getElementById("search-input");
 const suggestionBox = document.getElementById("suggestions-wrapper");

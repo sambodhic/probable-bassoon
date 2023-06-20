@@ -1,4 +1,4 @@
-import { CARS } from "./data.mjs";
+import { CARS } from "./data.js";
 
 export const getSuggestions = async (keyword) => {
     const result = CARS.filter(
