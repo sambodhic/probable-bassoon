@@ -1,9 +1,16 @@
 # probable-bassoon
 REACT hooks
-- work in progress
+
+Infinitescroll
+- npx create-react-app . 
+- npm i axios
+- npm start
+- Hooks used: useState, useEffect, useRef, useCallback
+- Intersection Observer API (detects the interaction of a target element with its ancestor element or the document viewport)
 
 Autocomplete or TypeAhead
-- Running on vscode _Live Preview_ 
+- Running on vscode _Show Preview_ 
+- AbortController interface (controller object that allows to abort one or more Web requests as and when desired)
 
 Todo List
 - npx create-react-app . 
