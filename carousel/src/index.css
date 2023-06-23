@@ -27,12 +27,14 @@
 }
 
 .carousel-img {
-  width: 250px;
+  max-width: 250px;
+  max-height: 250px;
   padding: 0 20px 0 20px;
 }
 
 .carousel-item-text {
   margin: 40px 0 40px 0;
+  white-space: normal;
 }
 
 .carousel-buttons {
@@ -52,4 +54,8 @@
   border: none;
   margin: 5px;
   background: none;
+}
+
+.indicator-symbol-active {
+  color: red;
 }

@@ -4,9 +4,15 @@ REACT hooks
 Infinitescroll
 - npx create-react-app . 
 - npm i axios
-- npm start
+- npm run start
 - Hooks used: useState, useEffect, useRef, useCallback
-- Intersection Observer API (detects the interaction of a target element with its ancestor element or the document viewport)
+- Intersection Observer API (detects the interaction of a target element with its ancestor element or the document viewport) 
+
+Carousel
+- npx create-react-app . 
+- npm run start
+- Images: https://undraw.co/illustrations
+- Icons: https://fonts.google.com/icons
 
 Autocomplete or TypeAhead
 - Running on vscode _Show Preview_ 
@@ -14,4 +20,4 @@ Autocomplete or TypeAhead
 
 Todo List
 - npx create-react-app . 
-- npm start
+- npm run start
