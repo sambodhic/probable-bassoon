@@ -21,3 +21,7 @@ Autocomplete or TypeAhead
 Todo List
 - npx create-react-app . 
 - npm run start
+
+Accordion
+- npx create-react-app . 
+- npm run start
